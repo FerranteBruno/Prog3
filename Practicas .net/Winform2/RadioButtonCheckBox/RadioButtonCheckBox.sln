@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButtonCheckBox", "RadioButtonCheckBox\RadioButtonCheckBox.csproj", "{0CD8E8AC-104B-4BE6-899B-E1DE6573462B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadioButtonCheckBox", "RadioButtonCheckBox\RadioButtonCheckBox.csproj", "{0CD8E8AC-104B-4BE6-899B-E1DE6573462B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RitchTextBox", "RitchTextBox\RitchTextBox.csproj", "{187D3287-872B-461B-80B1-63AFC1483753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBoxYChekedListBox", "ListBoxYChekedListBox\ListBoxYChekedListBox.csproj", "{C59E161E-8AE4-471F-852B-3AD201572114}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{0CD8E8AC-104B-4BE6-899B-E1DE6573462B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CD8E8AC-104B-4BE6-899B-E1DE6573462B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CD8E8AC-104B-4BE6-899B-E1DE6573462B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{187D3287-872B-461B-80B1-63AFC1483753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187D3287-872B-461B-80B1-63AFC1483753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187D3287-872B-461B-80B1-63AFC1483753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187D3287-872B-461B-80B1-63AFC1483753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C59E161E-8AE4-471F-852B-3AD201572114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59E161E-8AE4-471F-852B-3AD201572114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59E161E-8AE4-471F-852B-3AD201572114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59E161E-8AE4-471F-852B-3AD201572114}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
