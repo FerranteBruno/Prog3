@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuStrip", "MenuStrip\MenuStrip.csproj", "{CFB15604-1E15-47AE-ABF4-6E577705EB38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB15604-1E15-47AE-ABF4-6E577705EB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB15604-1E15-47AE-ABF4-6E577705EB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB15604-1E15-47AE-ABF4-6E577705EB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB15604-1E15-47AE-ABF4-6E577705EB38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6631E07C-1D88-4B8D-B27D-5E848A0BB000}
+	EndGlobalSection
+EndGlobal
