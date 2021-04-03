@@ -255,11 +255,10 @@ namespace MenuStrip
             // 
             this.rtbText.BackColor = System.Drawing.SystemColors.Window;
             this.rtbText.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.rtbText.Dock = System.Windows.Forms.DockStyle.Fill;
             this.rtbText.ForeColor = System.Drawing.Color.Black;
-            this.rtbText.Location = new System.Drawing.Point(0, 24);
+            this.rtbText.Location = new System.Drawing.Point(0, 77);
             this.rtbText.Name = "rtbText";
-            this.rtbText.Size = new System.Drawing.Size(800, 426);
+            this.rtbText.Size = new System.Drawing.Size(800, 348);
             this.rtbText.TabIndex = 1;
             this.rtbText.Text = "98465465df4g65sd4fg";
             this.rtbText.TextChanged += new System.EventHandler(this.rtbText_TextChanged);

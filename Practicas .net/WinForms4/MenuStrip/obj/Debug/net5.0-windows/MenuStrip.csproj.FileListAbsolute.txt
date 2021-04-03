@@ -16,3 +16,4 @@ D:\UTN\Prog3\Prog3\Practicas .net\WinForms4\MenuStrip\obj\Debug\net5.0-windows\M
 D:\UTN\Prog3\Prog3\Practicas .net\WinForms4\MenuStrip\obj\Debug\net5.0-windows\MenuStrip.genruntimeconfig.cache
 D:\UTN\Prog3\Prog3\Practicas .net\WinForms4\MenuStrip\obj\Debug\net5.0-windows\MenuStrip.frmMenuStrip.resources
 D:\UTN\Prog3\Prog3\Practicas .net\WinForms4\MenuStrip\obj\Debug\net5.0-windows\MenuStrip.Properties.Resources.resources
+D:\UTN\Prog3\Prog3\Practicas .net\WinForms4\MenuStrip\obj\Debug\net5.0-windows\MenuStrip.csprojAssemblyReference.cache
